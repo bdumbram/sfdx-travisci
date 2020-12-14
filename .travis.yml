@@ -1,5 +1,5 @@
 
-os: trusty
+dist: trusty
 cache: false
 
 env:
